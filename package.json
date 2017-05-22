@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/chinedufn/keyframes-to-dual-quats#readme",
   "devDependencies": {
+    "standard": "^10.0.2",
     "tape": "^4.6.3"
   },
   "dependencies": {
