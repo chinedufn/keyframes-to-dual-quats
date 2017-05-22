@@ -1,6 +1,6 @@
 {
   "name": "keyframes-to-dual-quats",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert a set of keyframe matrices into dual quaternions",
   "main": "keyframes-to-dual-quats.js",
   "scripts": {
