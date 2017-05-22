@@ -1,0 +1,40 @@
+{
+  "name": "keyframes-to-dual-quats",
+  "version": "0.0.1",
+  "description": "Convert a set of keyframe matrices into dual quaternions",
+  "main": "keyframes-to-dual-quats.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinedufn/keyframes-to-dual-quats.git"
+  },
+  "keywords": [
+    "dual",
+    "quaternion",
+    "quat",
+    "matrix",
+    "matrices",
+    "keyframe",
+    "skinning",
+    "skeletal",
+    "animation",
+    "3d",
+    "webgl",
+    "gl",
+    "animate"
+  ],
+  "author": "Chinedu Francis Nwafili <frankie.nwafili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chinedufn/keyframes-to-dual-quats/issues"
+  },
+  "homepage": "https://github.com/chinedufn/keyframes-to-dual-quats#readme",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  },
+  "dependencies": {
+    "mat4-to-dual-quat": "^1.0.0"
+  }
+}
